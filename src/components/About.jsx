@@ -45,13 +45,10 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]"
       >
-        I'm a skilled software developer and solutions engineer with experience
-        in JavaScript, HTML, and CSS, and expertise in frameworks like React,
-        NextJs, Cypress and React testing library. I've worked on a variety of
-        end user and enterprise projects in a few organizations. I'm a quick
-        learner and collaborate closely with team members and stakeholders to
-        create efficient, scalable and user friendly solutions that solve real
-        world problems.
+        I'm a skilled Product Owner, Software Developer, and Solutions Engineer with expertise in product management, 
+        agile methodologies, and software development. Proficient in JavaScript, TypeScript, HTML, CSS, and frameworks
+        like React and Next.js, I have led impactful projects such as integrating payment APIs and enhancing user-friendly systems. 
+        A quick learner and collaborator, I focus on creating scalable, efficient solutions that solve real-world problems.
       </motion.p>
 
       <div className="mt-20 flex flex-wrap gap-10">
