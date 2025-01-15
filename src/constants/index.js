@@ -141,8 +141,7 @@ const experiences = [
     iconBg: "#383E56",
     date: "Aug 2022 - Present",
     points: [
-      "Cross collaborating with teams across North America in maintaining and developing new features for the Intuit Academy platform using ReactJs, SCSS, and Javascript, and Integrating various services to the platform via Graphql APIs",
-      "Led the Integration of automated testing onto the CI/CD build pipeline for Intuit Academy and Implemented tests with Cypress and Cucumber.",
+      "Collaborated with teams across North America to maintain and develop new features for Intuit Academy, Intuit Insight - My Hub, and Expert Hiring, utilizing React.js, SCSS, TypeScript, and JavaScript. Integrated various services into the platform through GraphQL APIs.",      "Led the Integration of automated testing onto the CI/CD build pipeline for Intuit Academy and Implemented tests with Cypress and Cucumber.",
       "Overhauled and streamlined Splunk dashboards, increasing data querying speeds, allowing for faster KPI error detections, pattern recognitions, and report generation.",
       "working in an agile environment with daily scrum meetings to keep track of user stories / bugs in projects, and participating in sprint planning and retrospectives.",
       "Prioritised workload and tasks by utilising tools such as Jira",
