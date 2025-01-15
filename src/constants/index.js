@@ -120,7 +120,7 @@ const experiences = [
     ],
   },
   {
-    title: "Software Engineer",
+    title: "Technical product owner / Software Engineer",
     company_name: "Interswitch Limited",
     icon: interswitch,
     iconBg: "#E6DEDD",
@@ -135,7 +135,7 @@ const experiences = [
     ],
   },
   {
-    title: "Software Engineer",
+    title: "Senior Software Engineer",
     company_name: "Intuit",
     icon: intuit,
     iconBg: "#383E56",
