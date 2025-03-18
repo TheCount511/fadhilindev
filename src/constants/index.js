@@ -47,7 +47,7 @@ const services = [
     icon: mobile,
   },
   {
-    title: "Solutions Engineer",
+    title: "Product Manager",
     icon: backend,
   },
   {
@@ -111,27 +111,22 @@ const experiences = [
     iconBg: "#383E56",
     date: "Nov 2018 – Oct 2020",
     points: [
-      "Developed application interfaces for a Cloud based video surveillance System with the use of HTML, SCSS, JavaScript and jQuery ",
-      "Integrated different smart camera APIs onto the surveillance system’s application to fetch surveillance streams from the cameras and populate the user interface with them",
-      "Carried out unit testing and developed use cases for testing, maintained and optimised the code base, Identified application errors, and fixed bugs",
-      "Developed technical documentation, system requirement specification and translated business requirement into technical requirements",
-      "Managed the organisation’s websites and made modifications when required",
-      "Led the organizations technical support team and managed 2 support staff members",
+      "Product Development: Designed and launched a video surveillance application, meeting all project goals within established timelines.",
+      "Quality Assurance: Led User Acceptance Testing (UAT) to identify and resolve defects, enhancing system stability and user satisfaction.",
+      "Stakeholder Engagement: Gathered and implemented user feedback to refine product requirements, resulting in a 35% reduction in system downtime.",
     ],
   },
   {
-    title: "Technical product owner / Software Engineer",
+    title: "Product Manager",
     company_name: "Interswitch Limited",
     icon: interswitch,
     iconBg: "#E6DEDD",
-    date: "Oct 2020 – Jun 2022",
-    points: [
-      "Worked with an agile software engineering team in designing and building user interfaces, and front-end components for web portals with the use of ReactJs, HTML, CSS, JavaScript and REST APIs",
-      "Led an Initiative to optimise the UI of an internal application utilised for bulk preparation of Verve payment cards, resulting in a 10% increase in productivity. This was achieved by gathering data on frequently used features and also implementing a filtering feature to aid searching.",
-      "Worked in collaboration with developers from various banks and organisations to integrate Interswitch's virtual credit card and Paycode service into their systems. Paycode enables cardless payments and withdrawals at ATMs.",
-      "Maintained the paycode service for the sandbox environment, and deployed new and updated application packages via Kubernetes and Jenkins",
-      "Organised and executed user acceptance tests with clients and provided direct support to B2B customers throughout the project lifecycle, from inception to post-implementation.",
-      "Developed technical documentations for applications and services managed by the Application Implementation Team (FAQs, Known Errors, Support manuals, API integration documentation etc.)",
+    date: "Oct 2020 – Jul 2022",
+`   points: [
+      "Strategic Roadmap & Execution: Developed and executed a product vision and roadmap aligned with market trends and company OKRs.",
+      "Customer Impact & Revenue Growth: Led a migration for 50,000 merchants and 2M+ customers, reducing churn by 23% and driving an annual revenue increase of $1.2M.",
+      "Workflow Innovation: Digitized POS request workflows, reducing approval times from 15 days to instant and improving merchant satisfaction by 46%.",
+      "Market Analysis: Conducted comprehensive market and competitive research to identify and prioritize high-impact product features.",
     ],
   },
   {
@@ -141,10 +136,10 @@ const experiences = [
     iconBg: "#383E56",
     date: "Aug 2022 - Present",
     points: [
-      "Collaborated with teams across North America to maintain and develop new features for Intuit Academy, Intuit Insight - My Hub, and Expert Hiring, utilizing React.js, SCSS, TypeScript, and JavaScript. Integrated various services into the platform through GraphQL APIs.",      "Led the Integration of automated testing onto the CI/CD build pipeline for Intuit Academy and Implemented tests with Cypress and Cucumber.",
-      "Overhauled and streamlined Splunk dashboards, increasing data querying speeds, allowing for faster KPI error detections, pattern recognitions, and report generation.",
-      "working in an agile environment with daily scrum meetings to keep track of user stories / bugs in projects, and participating in sprint planning and retrospectives.",
-      "Prioritised workload and tasks by utilising tools such as Jira",
+      "Cross-Functional Collaboration: Partnered with product teams to translate user feedback into innovative product enhancements for digital workforce tools.",
+      "Process Optimization: Developed the Intuit Promotion Tool, streamlining HR workflows for 18,000+ employees and reducing processing time by 30%.",
+      "User Experience Design: Led a UI redesign for Intuit Academy that boosted adoption by 30% among tax professionals and bookkeepers.",
+      "Data-Driven Solutions: Engineered data visualization tools that empowered 2,000+ managers to make informed, strategic decisions.",
     ],
   },
 ];
