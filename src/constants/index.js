@@ -122,7 +122,7 @@ const experiences = [
     icon: interswitch,
     iconBg: "#E6DEDD",
     date: "Oct 2020 – Jul 2022",
-`   points: [
+    points: [
       "Strategic Roadmap & Execution: Developed and executed a product vision and roadmap aligned with market trends and company OKRs.",
       "Customer Impact & Revenue Growth: Led a migration for 50,000 merchants and 2M+ customers, reducing churn by 23% and driving an annual revenue increase of $1.2M.",
       "Workflow Innovation: Digitized POS request workflows, reducing approval times from 15 days to instant and improving merchant satisfaction by 46%.",
