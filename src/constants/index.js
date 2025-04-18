@@ -105,7 +105,7 @@ const technologies = [
 
 const experiences = [
   {
-    title: "Software Developer / Systems Technical support Analyst",
+    title: "Product Manager",
     company_name: "Advantec Marine Services Limited",
     icon: advantec,
     iconBg: "#383E56",
